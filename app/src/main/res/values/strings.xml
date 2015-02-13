@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">rSpinner</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Country">Select Country</string>
+    <string name="India">India</string>
+    <string name="Australia">Australia</string>
+    <string name="South_Africa">South Africa</string>
+    <string name="Pakistan">Pakistan</string>
+</resources>
